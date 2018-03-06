@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/cyy641278529/level-load-test/issues",
   "dependencies": {
-    "engine-3d": "git+ssh://git@github.com:cocos-creator/engine-3d.git#0.11.0"
+    "engine-3d": "git+ssh://git@github.com:cocos-creator/engine-3d.git#1914e0c"
   },
   "devDependencies": {
     "@gamedev-js/rollup-plugin-node-resolve": "^3.0.0",

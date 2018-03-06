@@ -4,7 +4,7 @@
 
   let dobj = {
     baseUrl: 'http://192.168.52.25:8002/out',
-    scene: 'spec-bitmap',
+    scene: 'spec-bitmap-font',
     load: load,
   };
   dgui.remember(dobj);
